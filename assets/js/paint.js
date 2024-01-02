@@ -1,6 +1,14 @@
 function configureListeners() {
-   const images = document.getElementsByTagName('img');
-
+   const images = document.getElementsById("pn1");
+   const images = document.getElementsById("pn2");
+   const images = document.getElementsById("pn3");
+   const images = document.getElementsById("pn4");
+   const images = document.getElementsById("pn5");
+   const images = document.getElementsById("pn6");
+   const images = document.getElementsById("pn7");
+   const images = document.getElementsById("pn8");
+   const images = document.getElementsById("pn9");
+}
 
     // for (let i = 0; i < images.length; i++) {          
         //images[i].addEventListener('mouseover', addOpacity, false);
